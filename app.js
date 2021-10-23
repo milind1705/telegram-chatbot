@@ -7,7 +7,7 @@ const {Telegraf} = require('telegraf');
 const Markup = require('telegraf')
 // const Extra = require('telegraf/extra')
 
-const bot = new Telegraf("1968145520:AAHkTw4B7e39niITNFf3QhYRTcFv2SmLi48")
+const bot = new Telegraf("TELEGRAM_TOKEN")
 
 // bot.use((ctx) => {
 //     ctx.reply("Hello Dear")
